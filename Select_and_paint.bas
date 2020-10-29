@@ -1,7 +1,5 @@
-Attribute VB_Name = "Ä£¿é1"
 Sub macro1()
-Attribute macro1.VB_ProcData.VB_Invoke_Func = " \n14"
-Dim i, j As Integer
+    Dim i, j As Integer
     For i = 1 To 5
         For j = 1 To 5
             If Cells(i, j).Value = 4 Then
