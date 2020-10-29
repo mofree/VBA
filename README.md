@@ -1,6 +1,6 @@
 # About this repository
 
-Select_and_paint.  
+Select_and_paint.bas  
 功能：在5\*5的端元格范围内，将值为4的单元格标黄  
 注意：Excel在自定义功能区中开启开发者模式，用于宏录制、创建按钮、查看代码等；Excel选项中打开允许宏；Excel中第一个单元格为Cells(1,1)，而非Cells(0,0)  
 过程记录：首先用宏录制实现单个单元格标黄，之后按钮绑定该宏，查看其代码，在此代码基础上，用两个循环和一个判断，实现功能。  
